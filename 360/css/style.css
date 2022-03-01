@@ -1,0 +1,39 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+#header{
+	width: 1100px;
+	height: 66px;
+	background: orangered;
+	margin: 0 auto;
+}
+
+#banner{
+	width: 1100px;
+	height: 423px;
+	background: skyblue;
+	margin: 0 auto;
+}
+
+#body1{
+	width: 1100px;
+	height: 347px;
+	background: purple;
+	margin: 0 auto;
+}
+
+#body2{
+	width: 1100px;
+	height: 368px;
+	background: black;
+	margin: 0 auto;
+}
+
+#bottom{
+	width: 1100px;
+	height: 230px;
+	background: white;
+	margin: 0 auto;
+}
