@@ -38,7 +38,7 @@
 #banner{
 	width: 1100px;
 	height: 423px;
-	/* background: url(../img/banner.png); */
+	/* background: blue; */
 	margin: 0 auto;
 }
 
@@ -48,6 +48,27 @@
 	height: 347px;
 	background: purple;
 	margin: 0 auto;
+}
+
+#body1 .veiw1{
+	/* width: 534px; */
+	width: 484px;
+	height: 347px;
+	padding-left: 50px;
+	background: #f2f2f2;
+}
+
+#body1 .veiw1 .font1{
+	margin-left: 50px;
+	color: #00b4ef;
+}
+
+#body1 .veiw1 .text1{
+	margin-top: 59px;
+}
+
+#body1 .veiw1 .font2{
+	color: #646464;
 }
 
 #body2{
