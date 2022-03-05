@@ -44,52 +44,61 @@
 
 
 #body1{
-	width: 1100px;
-	height: 347px;
-	background: purple;
+	width: 1000px;
+	height: 288px;
 	margin: 0 auto;
-}
-
-#body1 .veiw1{
-	/* width: 534px; */
-	width: 484px;
-	height: 347px;
-	padding-left: 50px;
-	padding-right: 25px;
+	padding: 0 50px;
 	background: #f2f2f2;
 }
-#body1 .view1 .section0 {
-	width: 470px;
-	height: 70px;
+#body1 .view .title{
+	height: 52px;
+	line-height: 52px;
+	font-size: 18px;
+	text-align: center;
+	color: white;
+	background: #00b5ee;
+}
+#body1 .view1{
+	width: 472px;
+	height: 288px;
 	float: left;
 }
-#body1 .veiw1 .section1 {
-	width: 470px;
-	height: 124px;
+#body1 .view1 .content{
+	width: 472px;
+	height: 222px;
+	padding-top: 8px;
+}
+#body1 .view1 .content .section .left{
+	width: 123px;
 	float: left;
-
+	color: #00b5ee;
+	font-size: 15px;
+	height: 40px;
+}
+#body1 .view1 .content .section .right{
+	font-size: 13px;
+	line-height: 22px;
+	color: #656565;
+}
+#body1 .view1 .content .section1{
+	margin-bottom: 80px;
+}
+#body1 .view1 .content .section2 .left{
+	height: 62px;
 }
 
-#body1 .veiw1 .section2 {
-	width: 470px;
-	height: 120px;
-	float: left;
-}
-
-#body1 .veiw1 .font1{
-	width: 120px;
-	color: #00b4ef;
-	float: left;
-}
-
-
-#body1 .veiw1 .font2{
-	width: 340px;
-	color: #646464;
+#body1 .view2{
+	width: 490px;
+	height: 288px;
 	float: right;
-	font-size: 12.5px;
-	line-height: 20px;
 }
+#body1 .view2 .content{
+	padding-top: 21px;
+}
+#body1 .view2 .content img{
+	float: left;
+}
+ 
 
 
 #body2{
